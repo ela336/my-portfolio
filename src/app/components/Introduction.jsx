@@ -44,7 +44,7 @@ const Introduction = () => {
 
               {/* Resume Button */}
               <a
-                href="#"
+                href="https://drive.google.com/file/d/1P5vGJwcEWwBlrwnxhe1COkDFyU2RGA23/view?usp=sharing"
                 className="w-full rounded-full bg-[#0D0C22] px-7 py-3.5 text-center text-base font-medium text-[#FEFAF2] transition-all duration-300 hover:bg-[#7D7236] sm:w-auto"
               >
                 View Resume
